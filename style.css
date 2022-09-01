@@ -1,3 +1,25 @@
+.container{
+    margin-bottom: 50px;
+}
+.nv-bg{
+    border-radius: 10px;
+    background-color: rgba(112, 103, 103, 0.973);
+}
 .orange-bg{
     background-color: #feeae9;
+    border-radius: 20px;
+}
+.carousel-item{
+    padding: 50px 50px;
+}
+.price{
+    color: #FF136F;
+}
+.buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%,#FF136F 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
 }
